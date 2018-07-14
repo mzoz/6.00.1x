@@ -2,6 +2,8 @@
 *.zip
 *.pdf
 *.mp4
+*.xml
+*.iml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
