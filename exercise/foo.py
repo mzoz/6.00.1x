@@ -5,6 +5,7 @@ class Foo():
     def makeInstanceAttribute(oops):
         oops.x = 10
 
+
 f = Foo()
 f.makeInstanceAttribute()
 print(f.x)
